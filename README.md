@@ -61,4 +61,4 @@ Tahmin sonucu ve Grad-CAM görselleştirmesi ekranda gösterilir.
 
 
 
-هي شو رايك
+
